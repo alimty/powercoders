@@ -1,5 +1,3 @@
-cat try.txt
 
-dkf
-mb;lb;n
-ml;lmd'b
+
+
