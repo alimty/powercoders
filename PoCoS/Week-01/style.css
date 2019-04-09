@@ -1,0 +1,41 @@
+
+
+
+.navBackground {
+  text-align: center;
+  background-image: url(https://images.unsplash.com/photo-1524146128017-b9dd0bfd2778?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  padding: 100px;
+  color:brown ; 
+  font-size: 15px;
+}
+
+
+.left {
+  float: left;
+  width: 50%;
+}
+
+.right {
+  float: right;
+  width: 50%;
+}
+
+
+body{
+  margin: 0px;
+  background-color: gainsboro;
+}
+.section2{
+ padding: 20px;
+}
+.form{
+  padding: 100px 00px 00px 00px;
+  margin-top: 100px;
+}
+.s2i{
+  padding: 00px 00px 30px 00px;
+}
+
